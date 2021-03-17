@@ -1,2 +1,1 @@
-Hello, Hexlet
-new day, new git project    
+Hello, Hexlet! How are you?
